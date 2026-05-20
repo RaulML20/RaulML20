@@ -15,11 +15,17 @@ Focused on clean architecture, SOLID principles, and building scalable, maintain
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
 
-**Backend & Tools**
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+
+**Backend & Servers**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Crystal](https://img.shields.io/badge/Crystal-000000?style=flat-square&logo=crystal&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![CloudPanel](https://img.shields.io/badge/CloudPanel-0078D7?style=flat-square&logo=serverless&logoColor=white)
+![Plesk](https://img.shields.io/badge/Plesk-52BBE6?style=flat-square&logo=plesk&logoColor=white)
 
 **Android** *(previous experience)*
 
@@ -32,7 +38,8 @@ Focused on clean architecture, SOLID principles, and building scalable, maintain
 
 - Building and maintaining production web apps at **[Pululart](https://pululart.com)** since 2022
 - Applying **clean architecture** and **SOLID principles** in real-world projects
-- Exploring server-side tooling — check out my [CloudPanel helpers](https://github.com/RaulML20/cloudpanel-terminal-helper)
+- Personal projects with **SvelteKit** and **Astro** — my go-to stack outside of work
+- Full deployment pipeline: from code to production — server setup, VHosts, SSL, process management via **CloudPanel** and **Plesk**
 
 ---
 
@@ -40,10 +47,10 @@ Focused on clean architecture, SOLID principles, and building scalable, maintain
 
 | Project | Description | Stack |
 |---|---|---|
+| [template-sveltekit](https://github.com/RaulML20/template-sveltekit) | Base architecture for SvelteKit projects — clean arch, SSR/ISR/SSG route groups, typed fetch layer | SvelteKit 2 · Svelte 5 · TS |
 | [cloudpanel-terminal-helper](https://github.com/RaulML20/cloudpanel-terminal-helper) | External web terminal helper for CloudPanel | Shell |
 | [cloudpanel-sites-helper](https://github.com/RaulML20/cloudpanel-sites-helper) | External sites list helper for CloudPanel | Shell |
 | [backend-crystal](https://github.com/RaulML20/backend-crystal) | Backend experiment with Crystal lang | Crystal |
-| [Restaurant-reservation-app](https://github.com/RaulML20/Restaurant-reservation-app) | Android app with MVVM, Room, Coroutines & Hilt | Kotlin |
 
 ---
 
