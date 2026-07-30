@@ -51,6 +51,7 @@ Focused on clean architecture, SOLID principles, and building scalable, maintain
 | [cloudpanel-terminal-helper](https://github.com/RaulML20/cloudpanel-terminal-helper) | External web terminal helper for CloudPanel | Shell |
 | [cloudpanel-sites-helper](https://github.com/RaulML20/cloudpanel-sites-helper) | External sites list helper for CloudPanel | Shell |
 | [backend-crystal](https://github.com/RaulML20/backend-crystal) | Backend experiment with Crystal lang | Crystal |
+| [plesk-ext-bun](https://github.com/RaulML20/plesk-ext-bun) | Plesk extension that manages the Bun runtime on the server | PHP · Shell |
 
 ---
 
