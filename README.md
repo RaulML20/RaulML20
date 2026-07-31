@@ -48,6 +48,7 @@ Focused on clean architecture, SOLID principles, and building scalable, maintain
 | Project | Description | Stack |
 |---|---|---|
 | [template-sveltekit](https://github.com/RaulML20/template-sveltekit) | Base architecture for SvelteKit projects — clean arch, SSR/ISR/SSG route groups, typed fetch layer | SvelteKit 2 · Svelte 5 · TS |
+| [cloudpanel-bun-helper](https://github.com/RaulML20/cloudpanel-bun-helper) | External Bun runtime manager helper for CloudPanel | Shell |
 | [cloudpanel-terminal-helper](https://github.com/RaulML20/cloudpanel-terminal-helper) | External web terminal helper for CloudPanel | Shell |
 | [cloudpanel-sites-helper](https://github.com/RaulML20/cloudpanel-sites-helper) | External sites list helper for CloudPanel | Shell |
 | [backend-crystal](https://github.com/RaulML20/backend-crystal) | Backend experiment with Crystal lang | Crystal |
