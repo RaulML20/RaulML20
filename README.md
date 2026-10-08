@@ -10,11 +10,17 @@ Before web I worked on Android apps with Kotlin.
 
 ### Stack
 
-- **Frontend:** Next.js, React, TypeScript, Sass, Zustand
-- **Backend:** Bun, Node.js, Elysia, Drizzle, PostgreSQL, MariaDB
-- **Side projects:** Crystal, SvelteKit, Svelte 5, Astro
-- **Servers:** Shell, CloudPanel, Plesk
-- **Previously:** Kotlin, Android
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,sass,bun,nodejs,elysia,postgres,crystal,svelte,astro,bash,zig&perline=13" />
+
+```crystal
+stack = {
+  frontend: ["Next.js", "React", "TypeScript", "Sass", "Zustand"],
+  backend: ["Bun", "Node.js", "Elysia", "Drizzle", "PostgreSQL", "MariaDB"],
+  side_projects: ["Crystal", "SvelteKit", "Svelte 5", "Astro"],
+  servers: ["Shell", "CloudPanel", "Plesk"],
+  previously: ["Kotlin", "Android"],
+}
+```
 
 ### Currently learning
 
